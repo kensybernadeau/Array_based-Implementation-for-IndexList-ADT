@@ -169,5 +169,6 @@ public ArrayIndexList<E> subList(int fromIndex, int toIndex) throws IndexOutOfBo
 	}
 	return newArray;
 	
+
 }
 }
