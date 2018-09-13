@@ -1,6 +1,5 @@
 package arrayIndexList;
 
-
 import java.lang.reflect.Array;
 
 import indexList.IndexList;
